@@ -65,6 +65,13 @@ i.soundcloud {
 i.apple {
     color: white;
 }
+i.twitter {
+    color: #55acee;
+}
+i.instagram {
+    color: #c13584;
+}
+
 
 .verticle-center {
   position: absolute;
