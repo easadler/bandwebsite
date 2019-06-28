@@ -1,15 +1,14 @@
 body {
-    background: url('../images/sea1.jpg'), url('../images/space4.jpg'); 
+    background: url('../images/sea1.jpg'), url('../images/space4.jpg');
 
     background-blend-mode: overlay, luminosity;
     background-size:cover;
 }
 
-
 .album {
-    height: auto; 
-    width: auto; 
-    max-width: 300px; 
+    height: auto;
+    width: auto;
+    max-width: 300px;
     max-height: 300px;
     opacity: .75;
     -webkit-border-radius: 20px;
